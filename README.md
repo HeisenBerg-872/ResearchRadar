@@ -31,8 +31,8 @@ Unlike citation-based systems, CiteGeist focuses purely on the *content* of the 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Geoff-Robin/CiteGeist.git
-cd CiteGeist
+git clone https://github.com/HeisenBerg-872/ResearchRadar.git
+cd ResearchRadar
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv
